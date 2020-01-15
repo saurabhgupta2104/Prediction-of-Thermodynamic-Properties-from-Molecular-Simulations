@@ -3,10 +3,6 @@ from simple_cube_coor import  *
 from Displace_particle_of_lattice import *
 from Verlet_equation import*
 
-
-
-
-
 boxlen =  18
 mm = 39.95
 tset = 100
